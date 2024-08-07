@@ -35,18 +35,11 @@ This repository is organized as follows:
 ### Transfer Learning
 ### Generative Adversarial Networks (GANs)
 ### Hyperparameter tuning
-## #How to Use This Repository
-### Clone the repository:
-#### bash
 
-git clone https://github.com/yourusername/deep-learning-journey.git
-# Navigate to the repository:
-bash
 
-#### cd deep-learning-journey
-####  Install the required dependencies:
-bash
-###### pip install -r requirements.txt
+
+
+
 #### Explore the notebooks:
 #### Open the Jupyter notebooks in the notebooks/ directory to follow along with my learning journey.
 ## Contributions
