@@ -1,4 +1,4 @@
-# Deep Learning Journey 
+# Deep Learning Journey    
 Welcome to my Deep Learning Journey repository! Here, I'll document everything I learn about Deep Learning, step by step. Feel free to follow along, learn, and contribute.
  
 ## About Me
